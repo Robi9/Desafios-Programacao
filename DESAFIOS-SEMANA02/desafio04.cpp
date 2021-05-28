@@ -4,7 +4,9 @@
 class Solution {
 public:
     bool capacidade(vector<int>& w,int k,int peso) {
+        
         int days=1,i=0;
+
         for(auto x:w){
             if(x>peso)
                 return false;
