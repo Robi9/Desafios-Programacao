@@ -1,4 +1,4 @@
-//Desafio02
+//Desafio 02
 //https://leetcode.com/problems/guess-number-higher-or-lower
 
 class Solution {
